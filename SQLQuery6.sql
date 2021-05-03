@@ -1,0 +1,8 @@
+SELECT 1--, 2, 3
+SELECT 1
+/*
+SELECT 1
+*/
+go
+SELECT 1
+--SELECT 1
